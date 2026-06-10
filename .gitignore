@@ -1,0 +1,15 @@
+# Bancos de dados locais
+*.db
+*.sqlite3
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Relatórios locais de teste
+reports/
+.pytest_cache/
